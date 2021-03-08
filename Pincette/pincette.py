@@ -3,7 +3,7 @@ import os
 
 
 # src = cv2.imread('123.png')
-src = cv2.imread('8bit.png')
+src = cv2.imread('img_file/8bit.png')
 
 
 if src is None:

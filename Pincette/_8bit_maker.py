@@ -6,11 +6,11 @@ from PIL import Image
 
 # Read a color image
 
-colorImage = Image.open("sample.jpeg")
+colorImage = Image.open("img_file/sample.jpeg")
 
 colorImage.show()
 
- 
+
 
 # Convert the color image to grey scale image
 

@@ -2,7 +2,7 @@ from PIL import Image
 
 
 
-im = Image.open("sample.png")
+im = Image.open("img_file/sample.png")
 
 im.save("sample_bmp.bmp")
 
